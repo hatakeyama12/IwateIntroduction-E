@@ -1,12 +1,23 @@
 @charset "UTF-8";
 
 body {
-    background-color: blue;
+    background-color:white ;
 }
-h1 {
-    margin-left: 520px;
+
+img {
+    
 }
 
 p {
-    margin-left: 40px;
+   left:500px;
+   top:250px;
 }
+div{
+    list-style: none;
+    padding:16px;
+    margin: 8px;
+}
+
+
+
+
