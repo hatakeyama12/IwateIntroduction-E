@@ -18,3 +18,12 @@ h1 .subtitle{
 p {
     font-size: 20px;
 }
+
+a {
+    margin-left: 50px;
+}
+
+h4 {
+    margin-left: 125px;
+    float:left
+}
